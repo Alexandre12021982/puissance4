@@ -1,0 +1,43 @@
+table
+{
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #8fc790;
+}
+
+td
+{
+    border: 1px solid black;
+    height: 100px;
+    width: 150px;
+    text-align: center;
+}
+
+th
+{
+    border: 1px solid black;
+
+
+}
+
+input {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin-top: 25px;;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+
+  }
+
+input:hover {
+  background-color: #4a754b; /* Green */
+  color: white;
+}
